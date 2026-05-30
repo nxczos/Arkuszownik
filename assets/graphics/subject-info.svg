@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <g fill="currentColor" font-family="monospace" font-weight="bold" opacity="0.6">
+    <text x="20" y="40" font-size="20">01101010</text>
+    <text x="180" y="40" font-size="20">10110011</text>
+    <text x="40" y="80" font-size="24">if (x &gt; 0) {</text>
+    <text x="80" y="120" font-size="20">00101101</text>
+    <text x="220" y="120" font-size="20">11100010</text>
+    <text x="40" y="160" font-size="32" opacity="0.8">&lt;/&gt;</text>
+    <text x="160" y="170" font-size="20">return true;</text>
+    <text x="20" y="210" font-size="20">10101010</text>
+    <text x="180" y="210" font-size="20">01010101</text>
+    <text x="60" y="250" font-size="24">while(true)</text>
+    <text x="260" y="260" font-size="40" opacity="0.4">{ }</text>
+  </g>
+</svg>

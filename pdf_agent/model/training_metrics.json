@@ -1,0 +1,24 @@
+{
+  "dataset": "C:\\Users\\kacpe\\Desktop\\CP-cplusplus\\arkuszownik\\maturalab\\pdf_agent\\data\\training_lines.jsonl",
+  "model": "C:\\Users\\kacpe\\Desktop\\CP-cplusplus\\arkuszownik\\maturalab\\pdf_agent\\model\\pdf_line_classifier.joblib",
+  "records": 28182,
+  "groups": 118,
+  "trainRecords": 21136,
+  "testRecords": 7046,
+  "labels": [
+    "answer_area",
+    "noise",
+    "task_body",
+    "task_header"
+  ],
+  "modelType": "tfidf_mlp_neural_network",
+  "hiddenLayers": [
+    96,
+    48
+  ],
+  "maxFeatures": 12000,
+  "maxIter": 45,
+  "crossValidationFolds": 5,
+  "crossValidationReport": "              precision    recall  f1-score   support\n\n answer_area       1.00      0.99      1.00       521\n       noise       0.98      0.96      0.97      9230\n   task_body       0.98      0.99      0.98     15773\n task_header       1.00      1.00      1.00      2658\n\n    accuracy                           0.98     28182\n   macro avg       0.99      0.99      0.99     28182\nweighted avg       0.98      0.98      0.98     28182\n",
+  "classificationReport": "              precision    recall  f1-score   support\n\n answer_area       1.00      1.00      1.00       130\n       noise       0.98      0.99      0.99      2308\n   task_body       0.99      0.99      0.99      3943\n task_header       1.00      1.00      1.00       665\n\n    accuracy                           0.99      7046\n   macro avg       0.99      0.99      0.99      7046\nweighted avg       0.99      0.99      0.99      7046\n"
+}

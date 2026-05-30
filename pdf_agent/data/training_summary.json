@@ -1,0 +1,13 @@
+{
+  "sources": 169,
+  "publicSources": 169,
+  "extraLocalSources": 0,
+  "records": 43136,
+  "labels": {
+    "noise": 15140,
+    "task_header": 3999,
+    "task_body": 22985,
+    "answer_area": 1012
+  },
+  "dataset": "C:\\Users\\Mikołaj\\Desktop\\maturalab\\pdf_agent\\data\\training_lines.jsonl"
+}

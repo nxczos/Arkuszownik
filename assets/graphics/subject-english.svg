@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Speech Bubbles -->
+    <path d="M 60 80 H 220 Q 240 80 240 100 V 160 Q 240 180 220 180 H 140 L 100 220 L 110 180 H 60 Q 40 180 40 160 V 100 Q 40 80 60 80 Z" opacity="0.6" stroke-width="3" />
+    
+    <path d="M 280 180 H 360 Q 370 180 370 190 V 230 Q 370 240 360 240 H 330 L 310 260 L 315 240 H 280 Q 270 240 270 230 V 190 Q 270 180 280 180 Z" opacity="0.4" />
+    
+    <path d="M 260 40 H 340 Q 350 40 350 50 V 90 Q 350 100 340 100 H 320 L 300 120 L 305 100 H 260 Q 250 100 250 90 V 50 Q 250 40 260 40 Z" opacity="0.5" />
+    
+    <!-- Text symbols -->
+    <text x="80" y="140" fill="currentColor" font-family="serif" font-weight="bold" font-size="36" stroke="none" opacity="0.7">Aa</text>
+    <text x="140" y="140" fill="currentColor" font-family="serif" font-weight="bold" font-size="24" stroke="none" opacity="0.4">" "</text>
+    
+    <!-- Book symbol -->
+    <path d="M 280 280 H 340 V 220 H 280 Z" opacity="0.2" />
+    <path d="M 310 220 V 280" opacity="0.2" />
+  </g>
+</svg>

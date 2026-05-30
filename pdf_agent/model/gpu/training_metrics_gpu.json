@@ -1,0 +1,19 @@
+{
+  "dataset": "C:\\Users\\Mikołaj\\Desktop\\maturalab\\pdf_agent\\data\\training_lines.jsonl",
+  "outputDir": "C:\\Users\\Mikołaj\\Desktop\\maturalab\\pdf_agent\\model\\gpu",
+  "records": 43136,
+  "groups": 169,
+  "device": "cuda",
+  "cudaAvailable": true,
+  "epochs": 24,
+  "batchSize": 256,
+  "learningRate": 0.001,
+  "maxFeatures": 12000,
+  "hiddenSizes": [
+    96,
+    48
+  ],
+  "crossValidationFolds": 5,
+  "crossValidationReport": "              precision    recall  f1-score   support\n\n answer_area       1.00      1.00      1.00      1012\n       noise       0.99      0.98      0.98     15140\n   task_body       0.98      0.99      0.99     22985\n task_header       1.00      1.00      1.00      3999\n\n    accuracy                           0.99     43136\n   macro avg       0.99      0.99      0.99     43136\nweighted avg       0.99      0.99      0.99     43136\n",
+  "classificationReport": "              precision    recall  f1-score   support\n\n answer_area       1.00      1.00      1.00       253\n       noise       0.99      0.99      0.99      3785\n   task_body       1.00      0.99      1.00      5746\n task_header       1.00      1.00      1.00      1000\n\n    accuracy                           0.99     10784\n   macro avg       1.00      1.00      1.00     10784\nweighted avg       0.99      0.99      0.99     10784\n"
+}

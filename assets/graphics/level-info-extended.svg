@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
+  <g fill="#000" font-family="Consolas, Monaco, monospace" font-weight="800">
+    <text x="42" y="56" font-size="24">10100110</text>
+    <text x="196" y="56" font-size="24">01110100</text>
+    <text x="78" y="104" font-size="24">01011101</text>
+    <text x="232" y="104" font-size="24">11000011</text>
+    <text x="42" y="152" font-size="24">00101010</text>
+    <text x="196" y="152" font-size="24">11101100</text>
+    <text x="78" y="200" font-size="24">10010101</text>
+    <text x="232" y="200" font-size="24">01001011</text>
+  </g>
+</svg>

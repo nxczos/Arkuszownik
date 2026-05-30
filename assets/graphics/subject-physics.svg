@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Atom -->
+    <circle cx="200" cy="150" r="20" fill="currentColor" opacity="0.8" />
+    <ellipse cx="200" cy="150" rx="120" ry="50" opacity="0.4" transform="rotate(30 200 150)" />
+    <ellipse cx="200" cy="150" rx="120" ry="50" opacity="0.4" transform="rotate(-30 200 150)" />
+    <ellipse cx="200" cy="150" rx="120" ry="50" opacity="0.4" transform="rotate(90 200 150)" />
+    
+    <!-- Wave -->
+    <path d="M 40 240 Q 80 180 120 240 T 200 240 T 280 240 T 360 240" stroke-width="3" opacity="0.6" />
+    
+    <!-- Planets/Orbits -->
+    <circle cx="320" cy="80" r="40" stroke-dasharray="8,8" opacity="0.3" />
+    <circle cx="340" cy="50" r="8" fill="currentColor" opacity="0.5" />
+    
+    <!-- Formula -->
+    <text x="50" y="70" fill="currentColor" font-family="serif" font-style="italic" font-size="28" stroke="none" opacity="0.7">E=mc²</text>
+    <text x="50" y="110" fill="currentColor" font-family="serif" font-style="italic" font-size="24" stroke="none" opacity="0.5">F=ma</text>
+  </g>
+</svg>

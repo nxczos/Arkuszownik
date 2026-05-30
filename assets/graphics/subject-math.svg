@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="currentColor" stroke-width="1" opacity="0.1"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="300" fill="url(#grid)" />
+  <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Axes -->
+    <path d="M 40 260 L 360 260" stroke-width="1.5" opacity="0.4" />
+    <path d="M 60 40 L 60 280" stroke-width="1.5" opacity="0.4" />
+    
+    <!-- Parabola -->
+    <path d="M 80 80 Q 200 380 320 80" stroke-width="4" opacity="0.8" />
+    
+    <!-- Geometric shapes -->
+    <circle cx="300" cy="80" r="30" opacity="0.3" />
+    <path d="M 280 220 L 340 220 L 310 170 Z" opacity="0.3" />
+    
+    <!-- Formulas (abstracted) -->
+    <path d="M 100 60 H 140" stroke-width="2" opacity="0.5" />
+    <path d="M 100 70 H 120" stroke-width="2" opacity="0.5" />
+    
+    <path d="M 240 240 Q 260 220 280 240" stroke-width="3" opacity="0.6" />
+  </g>
+</svg>

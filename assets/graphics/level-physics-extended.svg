@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 180c40-58 78-58 118 0s78 58 118 0 64-55 92-16" stroke-width="8"/>
+    <path d="M70 72h82M111 31v82M286 57l58 58M344 57l-58 58" stroke-width="7"/>
+    <path d="M178 134h82M260 134l-22-20M260 134l-22 20" stroke-width="7"/>
+  </g>
+  <g fill="#000" font-family="Georgia, Cambria, serif" font-weight="700">
+    <text x="58" y="226" font-size="23">v=s/t</text>
+    <text x="242" y="224" font-size="23">E=mc<tspan baseline-shift="super" font-size="15">2</tspan></text>
+    <text x="175" y="58" font-size="22">a=Delta v/t</text>
+  </g>
+</svg>
