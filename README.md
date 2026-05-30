@@ -142,7 +142,3 @@ Rebuild the feedback memory with:
 ```powershell
 python scripts/rebuild_pdf_feedback_memory.py
 ```
-
-Co-developed by mkulas07
-"" 
-"Co-developed by mkulas07." 
